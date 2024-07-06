@@ -1,0 +1,1234 @@
+libraries
+|   libraries.txt
+|   readme.txt
+|   
++---Adafruit-GFX-Library-master
+|   |   .gitignore
+|   |   .travis.yml
+|   |   Adafruit_GFX.cpp
+|   |   Adafruit_GFX.h
+|   |   Adafruit_SPITFT.cpp
+|   |   Adafruit_SPITFT.h
+|   |   Adafruit_SPITFT_Macros.h
+|   |   gfxfont.h
+|   |   glcdfont.c
+|   |   library.properties
+|   |   license.txt
+|   |   README.md
+|   |   
+|   +---examples
+|   |   \---mock_ili9341
+|   |           mock_ili9341.ino
+|   |           
+|   +---fontconvert
+|   |       fontconvert.c
+|   |       fontconvert_win.md
+|   |       Makefile
+|   |       makefonts.sh
+|   |       
+|   \---Fonts
+|           FreeMono12pt7b.h
+|           FreeMono18pt7b.h
+|           FreeMono24pt7b.h
+|           FreeMono9pt7b.h
+|           FreeMonoBold12pt7b.h
+|           FreeMonoBold18pt7b.h
+|           FreeMonoBold24pt7b.h
+|           FreeMonoBold9pt7b.h
+|           FreeMonoBoldOblique12pt7b.h
+|           FreeMonoBoldOblique18pt7b.h
+|           FreeMonoBoldOblique24pt7b.h
+|           FreeMonoBoldOblique9pt7b.h
+|           FreeMonoOblique12pt7b.h
+|           FreeMonoOblique18pt7b.h
+|           FreeMonoOblique24pt7b.h
+|           FreeMonoOblique9pt7b.h
+|           FreeSans12pt7b.h
+|           FreeSans18pt7b.h
+|           FreeSans24pt7b.h
+|           FreeSans9pt7b.h
+|           FreeSansBold12pt7b.h
+|           FreeSansBold18pt7b.h
+|           FreeSansBold24pt7b.h
+|           FreeSansBold9pt7b.h
+|           FreeSansBoldOblique12pt7b.h
+|           FreeSansBoldOblique18pt7b.h
+|           FreeSansBoldOblique24pt7b.h
+|           FreeSansBoldOblique9pt7b.h
+|           FreeSansOblique12pt7b.h
+|           FreeSansOblique18pt7b.h
+|           FreeSansOblique24pt7b.h
+|           FreeSansOblique9pt7b.h
+|           FreeSerif12pt7b.h
+|           FreeSerif18pt7b.h
+|           FreeSerif24pt7b.h
+|           FreeSerif9pt7b.h
+|           FreeSerifBold12pt7b.h
+|           FreeSerifBold18pt7b.h
+|           FreeSerifBold24pt7b.h
+|           FreeSerifBold9pt7b.h
+|           FreeSerifBoldItalic12pt7b.h
+|           FreeSerifBoldItalic18pt7b.h
+|           FreeSerifBoldItalic24pt7b.h
+|           FreeSerifBoldItalic9pt7b.h
+|           FreeSerifItalic12pt7b.h
+|           FreeSerifItalic18pt7b.h
+|           FreeSerifItalic24pt7b.h
+|           FreeSerifItalic9pt7b.h
+|           Org_01.h
+|           Picopixel.h
+|           Tiny3x3a2pt7b.h
+|           TomThumb.h
+|           
++---Adafruit-PCD8544-Nokia-5110-LCD-library-master
+|   |   .travis.yml
+|   |   Adafruit_PCD8544.cpp
+|   |   Adafruit_PCD8544.h
+|   |   code-of-conduct.md
+|   |   library.properties
+|   |   license.txt
+|   |   README.md
+|   |   
+|   +---.github
+|   |       ISSUE_TEMPLATE.md
+|   |       PULL_REQUEST_TEMPLATE.md
+|   |       
+|   \---examples
+|       \---pcdtest
+|               pcdtest.ino
+|               
++---Adafruit_BusIO
+|   |   Adafruit_BusIO_Register.cpp
+|   |   Adafruit_BusIO_Register.h
+|   |   Adafruit_I2CDevice.cpp
+|   |   Adafruit_I2CDevice.h
+|   |   Adafruit_I2CRegister.h
+|   |   Adafruit_SPIDevice.cpp
+|   |   Adafruit_SPIDevice.h
+|   |   library.properties
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   \---examples
+|       +---i2corspi_register
+|       |       i2corspi_register.ino
+|       |       
+|       +---i2c_address_detect
+|       |       i2c_address_detect.ino
+|       |       
+|       +---i2c_readwrite
+|       |       i2c_readwrite.ino
+|       |       
+|       +---i2c_registers
+|       |       i2c_registers.ino
+|       |       
+|       +---spi_modetest
+|       |       spi_modetest.ino
+|       |       
+|       +---spi_readwrite
+|       |       spi_readwrite.ino
+|       |       
+|       +---spi_registers
+|       |       spi_registers.ino
+|       |       
+|       \---spi_register_bits
+|               spi_register_bits.ino
+|               
++---Adafruit_GFX_Library
+|   |   Adafruit_GFX.cpp
+|   |   Adafruit_GFX.h
+|   |   Adafruit_MonoOLED.cpp
+|   |   Adafruit_MonoOLED.h
+|   |   Adafruit_SPITFT.cpp
+|   |   Adafruit_SPITFT.h
+|   |   Adafruit_SPITFT_Macros.h
+|   |   gfxfont.h
+|   |   glcdfont.c
+|   |   library.properties
+|   |   license.txt
+|   |   README.md
+|   |   
+|   +---examples
+|   |   +---GFXcanvas
+|   |   |       GFXcanvas.ino
+|   |   |       GFXcanvasSerialDemo.cpp
+|   |   |       GFXcanvasSerialDemo.h
+|   |   |       
+|   |   \---mock_ili9341
+|   |           mock_ili9341.ino
+|   |           
+|   +---fontconvert
+|   |       fontconvert.c
+|   |       fontconvert_win.md
+|   |       Makefile
+|   |       makefonts.sh
+|   |       
+|   \---Fonts
+|           FreeMono12pt7b.h
+|           FreeMono18pt7b.h
+|           FreeMono24pt7b.h
+|           FreeMono9pt7b.h
+|           FreeMonoBold12pt7b.h
+|           FreeMonoBold18pt7b.h
+|           FreeMonoBold24pt7b.h
+|           FreeMonoBold9pt7b.h
+|           FreeMonoBoldOblique12pt7b.h
+|           FreeMonoBoldOblique18pt7b.h
+|           FreeMonoBoldOblique24pt7b.h
+|           FreeMonoBoldOblique9pt7b.h
+|           FreeMonoOblique12pt7b.h
+|           FreeMonoOblique18pt7b.h
+|           FreeMonoOblique24pt7b.h
+|           FreeMonoOblique9pt7b.h
+|           FreeSans12pt7b.h
+|           FreeSans18pt7b.h
+|           FreeSans24pt7b.h
+|           FreeSans9pt7b.h
+|           FreeSansBold12pt7b.h
+|           FreeSansBold18pt7b.h
+|           FreeSansBold24pt7b.h
+|           FreeSansBold9pt7b.h
+|           FreeSansBoldOblique12pt7b.h
+|           FreeSansBoldOblique18pt7b.h
+|           FreeSansBoldOblique24pt7b.h
+|           FreeSansBoldOblique9pt7b.h
+|           FreeSansOblique12pt7b.h
+|           FreeSansOblique18pt7b.h
+|           FreeSansOblique24pt7b.h
+|           FreeSansOblique9pt7b.h
+|           FreeSerif12pt7b.h
+|           FreeSerif18pt7b.h
+|           FreeSerif24pt7b.h
+|           FreeSerif9pt7b.h
+|           FreeSerifBold12pt7b.h
+|           FreeSerifBold18pt7b.h
+|           FreeSerifBold24pt7b.h
+|           FreeSerifBold9pt7b.h
+|           FreeSerifBoldItalic12pt7b.h
+|           FreeSerifBoldItalic18pt7b.h
+|           FreeSerifBoldItalic24pt7b.h
+|           FreeSerifBoldItalic9pt7b.h
+|           FreeSerifItalic12pt7b.h
+|           FreeSerifItalic18pt7b.h
+|           FreeSerifItalic24pt7b.h
+|           FreeSerifItalic9pt7b.h
+|           Org_01.h
+|           Picopixel.h
+|           Tiny3x3a2pt7b.h
+|           TomThumb.h
+|           
++---Adafruit_GPS_Library
+|   |   code-of-conduct.md
+|   |   keywords.txt
+|   |   library.properties
+|   |   license.txt
+|   |   README.md
+|   |   
+|   +---examples
+|   |   +---blank
+|   |   |       blank.ino
+|   |   |       
+|   |   +---GPS_HardwareSerial_EchoTest
+|   |   |       GPS_HardwareSerial_EchoTest.ino
+|   |   |       
+|   |   +---GPS_HardwareSerial_LOCUS_DumpBasic
+|   |   |       GPS_HardwareSerial_LOCUS_DumpBasic.ino
+|   |   |       
+|   |   +---GPS_HardwareSerial_LOCUS_Erase
+|   |   |       GPS_HardwareSerial_LOCUS_Erase.ino
+|   |   |       
+|   |   +---GPS_HardwareSerial_LOCUS_Start
+|   |   |       GPS_HardwareSerial_LOCUS_Start.ino
+|   |   |       
+|   |   +---GPS_HardwareSerial_LOCUS_Status
+|   |   |       GPS_HardwareSerial_LOCUS_Status.ino
+|   |   |       
+|   |   +---GPS_HardwareSerial_Parsing
+|   |   |       GPS_HardwareSerial_Parsing.ino
+|   |   |       
+|   |   +---GPS_HardwareSerial_Timing
+|   |   |       GPS_HardwareSerial_Timing.ino
+|   |   |       
+|   |   +---GPS_I2C_EchoTest
+|   |   |       GPS_I2C_EchoTest.ino
+|   |   |       
+|   |   +---GPS_I2C_OLEDdebug
+|   |   |       GPS_I2C_OLEDdebug.ino
+|   |   |       
+|   |   +---GPS_I2C_Parsing
+|   |   |       GPS_I2C_Parsing.ino
+|   |   |       
+|   |   +---GPS_SoftwareSerial_EchoTest
+|   |   |       GPS_SoftwareSerial_EchoTest.ino
+|   |   |       
+|   |   +---GPS_SoftwareSerial_LOCUS_DumpBasic
+|   |   |       GPS_SoftwareSerial_LOCUS_DumpBasic.ino
+|   |   |       
+|   |   +---GPS_SoftwareSerial_LOCUS_Erase
+|   |   |       GPS_SoftwareSerial_LOCUS_Erase.ino
+|   |   |       
+|   |   +---GPS_SoftwareSerial_LOCUS_Start
+|   |   |       GPS_SoftwareSerial_LOCUS_Start.ino
+|   |   |       
+|   |   +---GPS_SoftwareSerial_LOCUS_Status
+|   |   |       GPS_SoftwareSerial_LOCUS_Status.ino
+|   |   |       
+|   |   +---GPS_SoftwareSerial_Parsing
+|   |   |       GPS_SoftwareSerial_Parsing.ino
+|   |   |       
+|   |   +---GPS_SPI_EchoTest
+|   |   |       GPS_SPI_EchoTest.ino
+|   |   |       
+|   |   +---NMEA_EXTENSIONS
+|   |   |       NMEA_EXTENSIONS.ino
+|   |   |       
+|   |   \---shield_sdlog
+|   |           shield_sdlog.ino
+|   |           
+|   \---src
+|           Adafruit_GPS.cpp
+|           Adafruit_GPS.h
+|           Adafruit_PMTK.h
+|           NMEA_build.cpp
+|           NMEA_data.cpp
+|           NMEA_data.h
+|           NMEA_parse.cpp
+|           
++---Adafruit_PCD8544_Nokia_5110_LCD_library
+|   |   Adafruit_PCD8544.cpp
+|   |   Adafruit_PCD8544.h
+|   |   code-of-conduct.md
+|   |   library.properties
+|   |   license.txt
+|   |   README.md
+|   |   
+|   \---examples
+|       \---pcdtest
+|               pcdtest.ino
+|               
++---Adafruit_Sensor-master
+|   |   .gitignore
+|   |   Adafruit_Sensor.cpp
+|   |   Adafruit_Sensor.h
+|   |   library.properties
+|   |   LICENSE.txt
+|   |   README.md
+|   |   
+|   +---.github
+|   |   \---workflows
+|   |           githubci.yml
+|   |           
+|   \---examples
+|       \---sensortest
+|               sensortest.ino
+|               
++---Adafruit_SSD1306
+|   |   Adafruit_SSD1306.cpp
+|   |   Adafruit_SSD1306.h
+|   |   library.properties
+|   |   license.txt
+|   |   README.md
+|   |   splash.h
+|   |   
+|   +---examples
+|   |   +---OLED_featherwing
+|   |   |       OLED_featherwing.ino
+|   |   |       
+|   |   +---ssd1306_128x32_i2c
+|   |   |       ssd1306_128x32_i2c.ino
+|   |   |       
+|   |   +---ssd1306_128x32_spi
+|   |   |       ssd1306_128x32_spi.ino
+|   |   |       
+|   |   +---ssd1306_128x64_i2c
+|   |   |       ssd1306_128x64_i2c.ino
+|   |   |       
+|   |   \---ssd1306_128x64_spi
+|   |           ssd1306_128x64_spi.ino
+|   |           
+|   \---scripts
+|           Makefile
+|           make_splash.py
+|           splash1.png
+|           splash2.png
+|           
++---Adafruit_SSD1306_Wemos_Mini_OLED
+|   |   Adafruit_SSD1306.cpp
+|   |   Adafruit_SSD1306.h
+|   |   library.properties
+|   |   license.txt
+|   |   README.md
+|   |   README.txt
+|   |   
+|   \---examples
+|       +---ssd1306_128x32_i2c
+|       |       ssd1306_128x32_i2c.ino
+|       |       
+|       +---ssd1306_128x32_spi
+|       |       ssd1306_128x32_spi.ino
+|       |       
+|       +---ssd1306_128x64_i2c
+|       |       ssd1306_128x64_i2c.ino
+|       |       
+|       +---ssd1306_128x64_spi
+|       |       ssd1306_128x64_spi.ino
+|       |       
+|       \---ssd1306_64x48_i2c
+|               ssd1306_64x48_i2c.ino
+|               
++---DHT_sensor_library-1.3.4
+|   |   DHT.cpp
+|   |   DHT.h
+|   |   DHT_U.cpp
+|   |   DHT_U.h
+|   |   keywords.txt
+|   |   library.properties
+|   |   README.md
+|   |   
+|   \---examples
+|       +---DHTtester
+|       |       DHTtester.ino
+|       |       
+|       \---DHT_Unified_Sensor
+|               DHT_Unified_Sensor.ino
+|               
++---DS1307RTC
+|   |   DS1307RTC.cpp
+|   |   DS1307RTC.h
+|   |   keywords.txt
+|   |   library.json
+|   |   library.properties
+|   |   readme.txt
+|   |   
+|   +---docs
+|   |       issue_template.md
+|   |       
+|   \---examples
+|       +---ReadTest
+|       |       ReadTest.ino
+|       |       
+|       \---SetTime
+|               SetTime.ino
+|               
++---DS3231
+|   |   DS3231.cpp
+|   |   DS3231.h
+|   |   keywords.txt
+|   |   
+|   +---Documentation
+|   |       DS3231.pdf
+|   |       version.txt
+|   |       
+|   +---examples
+|   |   +---Arduino
+|   |   |   +---DS3231_Serial_Easy
+|   |   |   |       DS3231_Serial_Easy.ino
+|   |   |   |       
+|   |   |   +---DS3231_Serial_Hard
+|   |   |   |       DS3231_Serial_Hard.ino
+|   |   |   |       
+|   |   |   +---DS3231_Temperature
+|   |   |   |       DS3231_Temperature.ino
+|   |   |   |       
+|   |   |   \---DS3231_UnixTime
+|   |   |           DS3231_UnixTime.ino
+|   |   |           
+|   |   \---chipKit
+|   |       +---DS3231_Serial_Easy
+|   |       |       DS3231_Serial_Easy.pde
+|   |       |       
+|   |       +---DS3231_Serial_Hard
+|   |       |       DS3231_Serial_Hard.pde
+|   |       |       
+|   |       +---DS3231_Temperature
+|   |       |       DS3231_Temperature.pde
+|   |       |       
+|   |       \---DS3231_UnixTime
+|   |               DS3231_UnixTime.pde
+|   |               
+|   +---hardware
+|   |   +---arm
+|   |   |       HW_ARM.h
+|   |   |       HW_ARM_defines.h
+|   |   |       
+|   |   +---avr
+|   |   |       HW_AVR.h
+|   |   |       HW_AVR_defines.h
+|   |   |       
+|   |   \---pic32
+|   |           HW_PIC32.h
+|   |           HW_PIC32_defines.h
+|   |           
+|   \---License
+|           License - CC BY-NC-SA 3.0 - Legal.pdf
+|           License - CC BY-NC-SA 3.0 - Summary.pdf
+|           
++---Encoder
+|   |   Encoder.cpp
+|   |   Encoder.h
+|   |   keywords.txt
+|   |   library.json
+|   |   library.properties
+|   |   README.md
+|   |   
+|   +---examples
+|   |   +---Basic
+|   |   |       Basic.pde
+|   |   |       
+|   |   +---NoInterrupts
+|   |   |       NoInterrupts.pde
+|   |   |       
+|   |   +---SpeedTest
+|   |   |       SpeedTest.pde
+|   |   |       
+|   |   \---TwoKnobs
+|   |           TwoKnobs.pde
+|   |           
+|   \---utility
+|           direct_pin_read.h
+|           interrupt_config.h
+|           interrupt_pins.h
+|           
++---EncoderStepCounter
+|   |   EncoderStepCounter.cpp
+|   |   EncoderStepCounter.h
+|   |   library.properties
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   \---examples
+|       +---BasicExample
+|       |       BasicExample.ino
+|       |       
+|       \---InterruptExample
+|               InterruptExample.ino
+|               
++---FastLED
+|   |   bitswap.cpp
+|   |   bitswap.h
+|   |   chipsets.h
+|   |   color.h
+|   |   colorpalettes.cpp
+|   |   colorpalettes.h
+|   |   colorutils.cpp
+|   |   colorutils.h
+|   |   component.mk
+|   |   controller.h
+|   |   cpp_compat.h
+|   |   dmx.h
+|   |   FastLED.cpp
+|   |   FastLED.h
+|   |   fastled_config.h
+|   |   fastled_delay.h
+|   |   fastled_progmem.h
+|   |   fastpin.h
+|   |   fastspi.h
+|   |   fastspi_bitbang.h
+|   |   fastspi_dma.h
+|   |   fastspi_nop.h
+|   |   fastspi_ref.h
+|   |   fastspi_types.h
+|   |   hsv2rgb.cpp
+|   |   hsv2rgb.h
+|   |   keywords.txt
+|   |   led_sysdefs.h
+|   |   lib8tion.cpp
+|   |   lib8tion.h
+|   |   library.json
+|   |   library.properties
+|   |   LICENSE
+|   |   noise.cpp
+|   |   noise.h
+|   |   pixelset.h
+|   |   pixeltypes.h
+|   |   platforms.cpp
+|   |   platforms.h
+|   |   PORTING.md
+|   |   power_mgt.cpp
+|   |   power_mgt.h
+|   |   README.md
+|   |   release_notes.md
+|   |   wiring.cpp
+|   |   
+|   +---docs
+|   |       Doxyfile
+|   |       mainpage.dox
+|   |       
+|   +---examples
+|   |   +---AnalogOutput
+|   |   |       AnalogOutput.ino
+|   |   |       
+|   |   +---Blink
+|   |   |       Blink.ino
+|   |   |       
+|   |   +---ColorPalette
+|   |   |       ColorPalette.ino
+|   |   |       
+|   |   +---ColorTemperature
+|   |   |       ColorTemperature.ino
+|   |   |       
+|   |   +---Cylon
+|   |   |       Cylon.ino
+|   |   |       
+|   |   +---DemoReel100
+|   |   |       DemoReel100.ino
+|   |   |       
+|   |   +---Fire2012
+|   |   |       Fire2012.ino
+|   |   |       
+|   |   +---Fire2012WithPalette
+|   |   |       Fire2012WithPalette.ino
+|   |   |       
+|   |   +---FirstLight
+|   |   |       FirstLight.ino
+|   |   |       
+|   |   +---Multiple
+|   |   |   +---ArrayOfLedArrays
+|   |   |   |       ArrayOfLedArrays.ino
+|   |   |   |       
+|   |   |   +---MirroringSample
+|   |   |   |       MirroringSample.ino
+|   |   |   |       
+|   |   |   +---MultiArrays
+|   |   |   |       MultiArrays.ino
+|   |   |   |       
+|   |   |   +---MultipleStripsInOneArray
+|   |   |   |       MultipleStripsInOneArray.ino
+|   |   |   |       
+|   |   |   +---OctoWS2811Demo
+|   |   |   |       OctoWS2811Demo.ino
+|   |   |   |       
+|   |   |   \---ParallelOutputDemo
+|   |   |           ParallelOutputDemo.ino
+|   |   |           
+|   |   +---Noise
+|   |   |       Noise.ino
+|   |   |       
+|   |   +---NoisePlayground
+|   |   |       NoisePlayground.ino
+|   |   |       
+|   |   +---NoisePlusPalette
+|   |   |       NoisePlusPalette.ino
+|   |   |       
+|   |   +---Pacifica
+|   |   |       Pacifica.ino
+|   |   |       
+|   |   +---Pintest
+|   |   |       Pintest.ino
+|   |   |       
+|   |   +---Ports
+|   |   |   \---PJRCSpectrumAnalyzer
+|   |   |           PJRCSpectrumAnalyzer.ino
+|   |   |           
+|   |   +---Pride2015
+|   |   |       Pride2015.ino
+|   |   |       
+|   |   +---RGBCalibrate
+|   |   |       RGBCalibrate.ino
+|   |   |       
+|   |   +---RGBSetDemo
+|   |   |       RGBSetDemo.ino
+|   |   |       
+|   |   +---SmartMatrix
+|   |   |       SmartMatrix.ino
+|   |   |       
+|   |   +---TwinkleFox
+|   |   |       TwinkleFox.ino
+|   |   |       
+|   |   \---XYMatrix
+|   |           XYMatrix.ino
+|   |           
+|   +---extras
+|   |       AppleII.s65
+|   |       FastLED6502.s65
+|   |       RainbowDemo.bin.zip
+|   |       RainbowDemo.s65
+|   |       
+|   +---lib8tion
+|   |       math8.h
+|   |       random8.h
+|   |       scale8.h
+|   |       trig8.h
+|   |       
+|   \---platforms
+|       +---arm
+|       |   +---common
+|       |   |       m0clockless.h
+|       |   |       
+|       |   +---d21
+|       |   |       clockless_arm_d21.h
+|       |   |       fastled_arm_d21.h
+|       |   |       fastpin_arm_d21.h
+|       |   |       led_sysdefs_arm_d21.h
+|       |   |       
+|       |   +---d51
+|       |   |       clockless_arm_d51.h
+|       |   |       fastled_arm_d51.h
+|       |   |       fastpin_arm_d51.h
+|       |   |       led_sysdefs_arm_d51.h
+|       |   |       README.txt
+|       |   |       
+|       |   +---k20
+|       |   |       clockless_arm_k20.h
+|       |   |       clockless_block_arm_k20.h
+|       |   |       fastled_arm_k20.h
+|       |   |       fastpin_arm_k20.h
+|       |   |       fastspi_arm_k20.h
+|       |   |       led_sysdefs_arm_k20.h
+|       |   |       octows2811_controller.h
+|       |   |       smartmatrix_t3.h
+|       |   |       ws2812serial_controller.h
+|       |   |       
+|       |   +---k66
+|       |   |       clockless_arm_k66.h
+|       |   |       clockless_block_arm_k66.h
+|       |   |       fastled_arm_k66.h
+|       |   |       fastpin_arm_k66.h
+|       |   |       fastspi_arm_k66.h
+|       |   |       led_sysdefs_arm_k66.h
+|       |   |       
+|       |   +---kl26
+|       |   |       clockless_arm_kl26.h
+|       |   |       fastled_arm_kl26.h
+|       |   |       fastpin_arm_kl26.h
+|       |   |       fastspi_arm_kl26.h
+|       |   |       led_sysdefs_arm_kl26.h
+|       |   |       
+|       |   +---mxrt1062
+|       |   |       block_clockless_arm_mxrt1062.h
+|       |   |       clockless_arm_mxrt1062.h
+|       |   |       fastled_arm_mxrt1062.h
+|       |   |       fastpin_arm_mxrt1062.h
+|       |   |       fastspi_arm_mxrt1062.h
+|       |   |       led_sysdefs_arm_mxrt1062.h
+|       |   |       
+|       |   +---nrf51
+|       |   |       clockless_arm_nrf51.h
+|       |   |       fastled_arm_nrf51.h
+|       |   |       fastpin_arm_nrf51.h
+|       |   |       fastspi_arm_nrf51.h
+|       |   |       led_sysdefs_arm_nrf51.h
+|       |   |       
+|       |   +---nrf52
+|       |   |       arbiter_nrf52.h
+|       |   |       clockless_arm_nrf52.h
+|       |   |       fastled_arm_nrf52.h
+|       |   |       fastpin_arm_nrf52.h
+|       |   |       fastpin_arm_nrf52_variants.h
+|       |   |       fastspi_arm_nrf52.h
+|       |   |       led_sysdefs_arm_nrf52.h
+|       |   |       
+|       |   +---sam
+|       |   |       clockless_arm_sam.h
+|       |   |       clockless_block_arm_sam.h
+|       |   |       fastled_arm_sam.h
+|       |   |       fastpin_arm_sam.h
+|       |   |       fastspi_arm_sam.h
+|       |   |       led_sysdefs_arm_sam.h
+|       |   |       
+|       |   \---stm32
+|       |           clockless_arm_stm32.h
+|       |           cm3_regs.h
+|       |           fastled_arm_stm32.h
+|       |           fastpin_arm_stm32.h
+|       |           led_sysdefs_arm_stm32.h
+|       |           
+|       +---avr
+|       |       clockless_trinket.h
+|       |       fastled_avr.h
+|       |       fastpin_avr.h
+|       |       fastspi_avr.h
+|       |       led_sysdefs_avr.h
+|       |       
+|       \---esp
+|           +---32
+|           |       clockless_block_esp32.h
+|           |       clockless_esp32.h.orig
+|           |       clockless_i2s_esp32.h
+|           |       clockless_rmt_esp32.h
+|           |       fastled_esp32.h
+|           |       fastpin_esp32.h
+|           |       led_sysdefs_esp32.h
+|           |       
+|           \---8266
+|                   clockless_block_esp8266.h
+|                   clockless_esp8266.h
+|                   fastled_esp8266.h
+|                   fastpin_esp8266.h
+|                   led_sysdefs_esp8266.h
+|                   
++---iarduino_RTC-1.3.4
+|   |   .gitattributes
+|   |   keywords.txt
+|   |   library.properties
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---examples
+|   |   +---gettime
+|   |   |       gettime.ino
+|   |   |       
+|   |   +---gettimeUnix
+|   |   |       gettimeUnix.ino
+|   |   |       
+|   |   +---getvartime
+|   |   |       getvartime.ino
+|   |   |       
+|   |   +---setsystime
+|   |   |       setsystime.ino
+|   |   |       
+|   |   +---settime
+|   |   |       settime.ino
+|   |   |       
+|   |   \---settimeUnix
+|   |           settimeUnix.ino
+|   |           
+|   +---extras
+|   |       DS1302.pdf
+|   |       DS1307.pdf
+|   |       DS3231.pdf
+|   |       
+|   \---src
+|           iarduino_RTC.cpp
+|           iarduino_RTC.h
+|           iarduino_RTC_DS1302.h
+|           iarduino_RTC_DS1307.h
+|           iarduino_RTC_DS3231.h
+|           iarduino_RTC_I2C.h
+|           memorysaver.h
+|           
++---IoTtweet
+|   |   library.properties
+|   |   README.md
+|   |   
+|   +---examples
+|   |   |   readme.md
+|   |   |   
+|   |   +---ControlMyIoT
+|   |   |       ControlMyIoT.ino
+|   |   |       
+|   |   +---ControlMyIoT_slider
+|   |   |       ControlMyIoT_slider.ino
+|   |   |       
+|   |   +---ControlMyIoT_switch
+|   |   |       ControlMyIoT_switch.ino
+|   |   |       
+|   |   +---DHT_IoTtweet
+|   |   |       DHT_IoTtweet.ino
+|   |   |       
+|   |   \---WriteToDashboard
+|   |           WriteToDashboard.ino
+|   |           
+|   \---src
+|           IoTtweet.cpp
+|           IoTtweet.h
+|           
++---LCD5110_Basic
+|   |   DefaultFonts.c
+|   |   keywords.txt
+|   |   LCD5110_Basic.cpp
+|   |   LCD5110_Basic.h
+|   |   
+|   +---Documentation
+|   |       LCD5110_Basic.pdf
+|   |       version.txt
+|   |       
+|   +---examples
+|   |   +---Arduino (ARM)
+|   |   |   +---LCD5110_Bitmap
+|   |   |   |       arduino_logo.c
+|   |   |   |       LCD5110_Bitmap.ino
+|   |   |   |       oshw_logo.c
+|   |   |   |       
+|   |   |   +---LCD5110_NumberFonts
+|   |   |   |       LCD5110_NumberFonts.ino
+|   |   |   |       
+|   |   |   +---LCD5110_Sleep_Mode
+|   |   |   |       LCD5110_Sleep_Mode.ino
+|   |   |   |       
+|   |   |   \---LCD5110_ViewFont
+|   |   |           LCD5110_ViewFont.ino
+|   |   |           
+|   |   +---Arduino (AVR)
+|   |   |   +---LCD5110_Bitmap
+|   |   |   |       arduino_logo.c
+|   |   |   |       LCD5110_Bitmap.pde
+|   |   |   |       oshw_logo.c
+|   |   |   |       
+|   |   |   +---LCD5110_NumberFonts
+|   |   |   |       LCD5110_NumberFonts.pde
+|   |   |   |       
+|   |   |   +---LCD5110_Sleep_Mode
+|   |   |   |       LCD5110_Sleep_Mode.ino
+|   |   |   |       
+|   |   |   \---LCD5110_ViewFont
+|   |   |           LCD5110_ViewFont.pde
+|   |   |           
+|   |   \---chipKit
+|   |       +---LCD5110_Bitmap
+|   |       |       chipkit_logo.c
+|   |       |       LCD5110_Bitmap.pde
+|   |       |       oshw_logo.c
+|   |       |       
+|   |       +---LCD5110_NumberFonts
+|   |       |       LCD5110_NumberFonts.pde
+|   |       |       
+|   |       +---LCD5110_Sleep_Mode
+|   |       |       LCD5110_Sleep_Mode.pde
+|   |       |       
+|   |       \---LCD5110_ViewFont
+|   |               LCD5110_ViewFont.pde
+|   |               
+|   +---hardware
+|   |   +---arm
+|   |   |       HW_ARM.h
+|   |   |       HW_ARM_defines.h
+|   |   |       
+|   |   +---avr
+|   |   |       HW_AVR.h
+|   |   |       HW_AVR_defines.h
+|   |   |       
+|   |   \---pic32
+|   |           HW_PIC32.h
+|   |           HW_PIC32_defines.h
+|   |           
+|   \---License
+|           License - CC BY-NC-SA 3.0 - Legal.pdf
+|           License - CC BY-NC-SA 3.0 - Summary.pdf
+|           
++---LiquidCrystal_I2C
+|   |   keywords.txt
+|   |   library.json
+|   |   library.properties
+|   |   LiquidCrystal_I2C.cpp
+|   |   LiquidCrystal_I2C.h
+|   |   LiquidCrystal_I2C.o
+|   |   README.md
+|   |   
+|   \---examples
+|       +---CustomChars
+|       |       CustomChars.pde
+|       |       
+|       +---HelloWorld
+|       |       HelloWorld.pde
+|       |       
+|       \---SerialDisplay
+|               SerialDisplay.pde
+|               
++---LiquidCrystal_I2C-1.1.2
+|   |   keywords.txt
+|   |   library.json
+|   |   library.properties
+|   |   LiquidCrystal_I2C.cpp
+|   |   LiquidCrystal_I2C.h
+|   |   LiquidCrystal_I2C.o
+|   |   README.md
+|   |   
+|   \---examples
+|       +---CustomChars
+|       |       CustomChars.pde
+|       |       
+|       +---HelloWorld
+|       |       HelloWorld.pde
+|       |       
+|       \---SerialDisplay
+|               SerialDisplay.pde
+|               
++---TinyGPS
+|   |   keywords.txt
+|   |   library.properties
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---examples
+|   |   +---simple_test
+|   |   |       simple_test.ino
+|   |   |       
+|   |   +---static_test
+|   |   |       static_test.ino
+|   |   |       
+|   |   \---test_with_gps_device
+|   |           test_with_gps_device.ino
+|   |           
+|   \---src
+|           TinyGPS.cpp
+|           TinyGPS.h
+|           
+\---U8g2
+    |   keywords.txt
+    |   library.properties
+    |   LICENSE
+    |   README.md
+    |   
+    +---examples
+    |   +---full_buffer
+    |   |   +---FontUsage
+    |   |   |       FontUsage.ino
+    |   |   |       
+    |   |   +---FPS
+    |   |   |       FPS.ino
+    |   |   |       
+    |   |   +---GraphicsTest
+    |   |   |       GraphicsTest.ino
+    |   |   |       
+    |   |   +---HelloWorld
+    |   |   |       HelloWorld.ino
+    |   |   |       
+    |   |   +---IconMenu
+    |   |   |       IconMenu.ino
+    |   |   |       
+    |   |   +---PrintUTF8
+    |   |   |       PrintUTF8.ino
+    |   |   |       
+    |   |   +---ScreenShot
+    |   |   |       ScreenShot.ino
+    |   |   |       
+    |   |   +---SelectionList
+    |   |   |       SelectionList.ino
+    |   |   |       
+    |   |   +---Shennong
+    |   |   |       Shennong.ino
+    |   |   |       
+    |   |   +---U8g2Logo
+    |   |   |       U8g2Logo.ino
+    |   |   |       
+    |   |   +---UpdateArea
+    |   |   |       UpdateArea.ino
+    |   |   |       
+    |   |   \---Weather
+    |   |           Weather.ino
+    |   |           
+    |   +---games
+    |   |   +---LittleRookChess
+    |   |   |       LittleRookChess.ino
+    |   |   |       
+    |   |   \---SpaceTrash
+    |   |           SpaceTrash.ino
+    |   |           
+    |   +---page_buffer
+    |   |   +---A2Printer
+    |   |   |       A2Printer.ino
+    |   |   |       
+    |   |   +---Chinese
+    |   |   |       Chinese.ino
+    |   |   |       
+    |   |   +---ClipWindow
+    |   |   |       ClipWindow.ino
+    |   |   |       
+    |   |   +---Clock
+    |   |   |       Clock.ino
+    |   |   |       
+    |   |   +---ContrastTest
+    |   |   |       ContrastTest.ino
+    |   |   |       
+    |   |   +---Devanagari
+    |   |   |       Devanagari.ino
+    |   |   |       
+    |   |   +---DirectAccess
+    |   |   |       DirectAccess.ino
+    |   |   |       
+    |   |   +---DrawLog
+    |   |   |       DrawLog.ino
+    |   |   |       
+    |   |   +---ExtUTF8
+    |   |   |       ExtUTF8.ino
+    |   |   |       
+    |   |   +---FlipMode
+    |   |   |       FlipMode.ino
+    |   |   |       
+    |   |   +---FPS
+    |   |   |       FPS.ino
+    |   |   |       
+    |   |   +---GraphicsTest
+    |   |   |       GraphicsTest.ino
+    |   |   |       
+    |   |   +---HelloWorld
+    |   |   |       HelloWorld.ino
+    |   |   |       
+    |   |   +---IconMenu
+    |   |   |       IconMenu.ino
+    |   |   |       
+    |   |   +---Japanese
+    |   |   |       Japanese.ino
+    |   |   |       
+    |   |   +---Korean
+    |   |   |       Korean.ino
+    |   |   |       
+    |   |   +---LoadFromSD
+    |   |   |       LoadFromSD.ino
+    |   |   |       
+    |   |   +---PowerSaveTest
+    |   |   |       PowerSaveTest.ino
+    |   |   |       
+    |   |   +---PrintHelloWorld
+    |   |   |       PrintHelloWorld.ino
+    |   |   |       
+    |   |   +---PrintProgmem
+    |   |   |       PrintProgmem.ino
+    |   |   |       
+    |   |   +---PrintUTF8
+    |   |   |       PrintUTF8.ino
+    |   |   |       
+    |   |   +---ScrollingText
+    |   |   |       ScrollingText.ino
+    |   |   |       
+    |   |   +---SelectionList
+    |   |   |       SelectionList.ino
+    |   |   |       
+    |   |   +---Serial
+    |   |   |       Serial.ino
+    |   |   |       
+    |   |   +---Shennong
+    |   |   |       Shennong.ino
+    |   |   |       
+    |   |   +---StateBufferLoop
+    |   |   |       StateBufferLoop.ino
+    |   |   |       
+    |   |   +---Terminal
+    |   |   |       Terminal.ino
+    |   |   |       
+    |   |   +---U8g2Logo
+    |   |   |       U8g2Logo.ino
+    |   |   |       
+    |   |   +---UpdatePartly
+    |   |   |       UpdatePartly.ino
+    |   |   |       
+    |   |   +---Weather
+    |   |   |       Weather.ino
+    |   |   |       
+    |   |   +---XBM
+    |   |   |       XBM.ino
+    |   |   |       
+    |   |   \---XORTest
+    |   |           XORTest.ino
+    |   |           
+    |   \---u8x8
+    |       +---16x16Font
+    |       |       16x16Font.ino
+    |       |       
+    |       +---ArduboyTest
+    |       |       ArduboyTest.ino
+    |       |       
+    |       +---FlipMode
+    |       |       FlipMode.ino
+    |       |       
+    |       +---GraphicsTest
+    |       |       GraphicsTest.ino
+    |       |       
+    |       +---HelloWorld
+    |       |       HelloWorld.ino
+    |       |       
+    |       +---MessageBox
+    |       |       MessageBox.ino
+    |       |       
+    |       \---Terminal
+    |               Terminal.ino
+    |               
+    +---extras
+    |       ChangeLog
+    |       
+    \---src
+        |   U8g2lib.cpp
+        |   U8g2lib.h
+        |   U8x8lib.cpp
+        |   U8x8lib.h
+        |   
+        \---clib
+                u8g2.h
+                u8g2_bitmap.c
+                u8g2_box.c
+                u8g2_buffer.c
+                u8g2_circle.c
+                u8g2_cleardisplay.c
+                u8g2_d_memory.c
+                u8g2_d_setup.c
+                u8g2_font.c
+                u8g2_fonts.c
+                u8g2_hvline.c
+                u8g2_input_value.c
+                u8g2_intersection.c
+                u8g2_kerning.c
+                u8g2_line.c
+                u8g2_ll_hvline.c
+                u8g2_message.c
+                u8g2_polygon.c
+                u8g2_selection_list.c
+                u8g2_setup.c
+                u8log.c
+                u8log_u8g2.c
+                u8log_u8x8.c
+                u8x8.h
+                u8x8_8x8.c
+                u8x8_byte.c
+                u8x8_cad.c
+                u8x8_capture.c
+                u8x8_debounce.c
+                u8x8_display.c
+                u8x8_d_a2printer.c
+                u8x8_d_il3820_296x128.c
+                u8x8_d_ist3020.c
+                u8x8_d_ist7920.c
+                u8x8_d_ks0108.c
+                u8x8_d_lc7981.c
+                u8x8_d_ld7032_60x32.c
+                u8x8_d_ls013b7dh03.c
+                u8x8_d_max7219.c
+                u8x8_d_pcd8544_84x48.c
+                u8x8_d_pcf8812.c
+                u8x8_d_pcf8814_hx1230.c
+                u8x8_d_sbn1661.c
+                u8x8_d_sed1330.c
+                u8x8_d_sh1106_64x32.c
+                u8x8_d_sh1106_72x40.c
+                u8x8_d_sh1107.c
+                u8x8_d_sh1108.c
+                u8x8_d_sh1122.c
+                u8x8_d_ssd1305.c
+                u8x8_d_ssd1306_128x32.c
+                u8x8_d_ssd1306_128x64_noname.c
+                u8x8_d_ssd1306_48x64.c
+                u8x8_d_ssd1306_64x32.c
+                u8x8_d_ssd1306_64x48.c
+                u8x8_d_ssd1306_72x40.c
+                u8x8_d_ssd1306_96x16.c
+                u8x8_d_ssd1309.c
+                u8x8_d_ssd1316.c
+                u8x8_d_ssd1317.c
+                u8x8_d_ssd1318.c
+                u8x8_d_ssd1322.c
+                u8x8_d_ssd1325.c
+                u8x8_d_ssd1326.c
+                u8x8_d_ssd1327.c
+                u8x8_d_ssd1329.c
+                u8x8_d_ssd1606_172x72.c
+                u8x8_d_ssd1607_200x200.c
+                u8x8_d_st7511.c
+                u8x8_d_st75256.c
+                u8x8_d_st7528.c
+                u8x8_d_st75320.c
+                u8x8_d_st7565.c
+                u8x8_d_st7567.c
+                u8x8_d_st7586s_erc240160.c
+                u8x8_d_st7586s_s028hn118a.c
+                u8x8_d_st7588.c
+                u8x8_d_st7920.c
+                u8x8_d_t6963.c
+                u8x8_d_uc1601.c
+                u8x8_d_uc1604.c
+                u8x8_d_uc1608.c
+                u8x8_d_uc1610.c
+                u8x8_d_uc1611.c
+                u8x8_d_uc1617.c
+                u8x8_d_uc1638.c
+                u8x8_d_uc1701_dogs102.c
+                u8x8_d_uc1701_mini12864.c
+                u8x8_fonts.c
+                u8x8_gpio.c
+                u8x8_input_value.c
+                u8x8_message.c
+                u8x8_selection_list.c
+                u8x8_setup.c
+                u8x8_string.c
+                u8x8_u16toa.c
+                u8x8_u8toa.c
+                
