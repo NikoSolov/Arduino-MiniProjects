@@ -1,0 +1,2164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 931 512"
+   id="svg536"
+   sodipodi:docname="арбитер.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs540" />
+  <sodipodi:namedview
+     id="namedview538"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="523.38983"
+     inkscape:cy="292.88136"
+     inkscape:window-width="2560"
+     inkscape:window-height="1490"
+     inkscape:window-x="1668"
+     inkscape:window-y="1137"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg536" />
+  <rect
+     style="fill:#ffffff;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
+     id="rect1090"
+     width="931"
+     height="512"
+     x="0"
+     y="0" />
+  <g
+     id="g932">
+    <polyline
+       fill="none"
+       points="61,236 111,236"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline2" />
+    <polyline
+       fill="none"
+       points="91,346 91,366"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline4" />
+    <polyline
+       fill="none"
+       points="391,446 391,456 431,456"
+       stroke="rgb(0, 210, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline6" />
+    <polyline
+       fill="none"
+       points="91,326 91,256 111,256"
+       stroke="rgb(0, 210, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline8" />
+    <polyline
+       fill="none"
+       points="491,286 491,346"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline10" />
+    <polyline
+       fill="none"
+       points="581,96 591,96"
+       stroke="rgb(0, 210, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline12" />
+    <polyline
+       fill="none"
+       points="401,256 411,256 461,256"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline14" />
+    <polyline
+       fill="none"
+       points="321,336 321,356 221,356 221,386 391,386 391,426"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline16" />
+    <polyline
+       fill="none"
+       points="461,486 461,506 411,506 411,436 461,436 461,416"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline18" />
+    <polyline
+       fill="none"
+       points="591,126 221,126 221,256 221,276 221,356"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline20" />
+    <polyline
+       fill="none"
+       points="221,276 261,276"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline22" />
+    <polyline
+       fill="none"
+       points="281,276 321,276 321,256"
+       stroke="rgb(0, 210, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline24" />
+    <polyline
+       fill="none"
+       points="391,386 431,386"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline26" />
+    <polyline
+       fill="none"
+       points="61,306 201,306 231,306"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline28" />
+    <polyline
+       fill="none"
+       points="501,256 521,256 521,186 591,186"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline30" />
+    <polyline
+       fill="none"
+       points="521,256 541,256 541,306 601,306"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline32" />
+    <polyline
+       fill="none"
+       points="541,256 561,256"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline34" />
+    <polyline
+       fill="none"
+       points="201,306 201,346"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline36" />
+    <polyline
+       fill="none"
+       points="311,256 311,266 241,266 241,306 231,306 231,156 591,156"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline38" />
+    <polyline
+       fill="none"
+       points="241,306 241,346 311,346 311,336"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline40" />
+    <polyline
+       fill="none"
+       points="181,256 201,256 201,216"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline42" />
+    <polyline
+       fill="none"
+       points="201,256 221,256"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline44" />
+    <polyline
+       fill="none"
+       points="411,256 411,436"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline46" />
+    <polyline
+       fill="none"
+       points="591,256 601,256"
+       stroke="rgb(0, 210, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline48" />
+    <ellipse
+       cx="521.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse50" />
+    <ellipse
+       cx="221.0"
+       cy="356.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse52" />
+    <ellipse
+       cx="231.0"
+       cy="306.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse54" />
+    <ellipse
+       cx="201.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse56" />
+    <ellipse
+       cx="241.0"
+       cy="306.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse58" />
+    <ellipse
+       cx="411.0"
+       cy="436.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse60" />
+    <ellipse
+       cx="541.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse62" />
+    <ellipse
+       cx="201.0"
+       cy="306.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse64" />
+    <ellipse
+       cx="221.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse66" />
+    <ellipse
+       cx="411.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse68" />
+    <ellipse
+       cx="221.0"
+       cy="276.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse70" />
+    <ellipse
+       cx="391.0"
+       cy="386.0"
+       fill="rgb(0, 100, 0)"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-width="3.0"
+       id="ellipse72" />
+    <polyline
+       fill="none"
+       points="41,226 60,226"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline74" />
+    <polyline
+       fill="none"
+       points="61,226 61,245"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline76" />
+    <polyline
+       fill="none"
+       points="61,246 42,246"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline78" />
+    <polyline
+       fill="none"
+       points="41,246 41,227"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline80" />
+    <text
+       fill="rgb(0, 0, 255)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="25.0"
+       y="220.0"
+       id="text82">Master</text>
+    <polyline
+       fill="none"
+       points="45,236 45,240 51,240 51,232 57,232 57,236"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline84" />
+    <ellipse
+       cx="61.0"
+       cy="236.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse86" />
+    <polyline
+       fill="none"
+       points="41,296 60,296"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline88" />
+    <polyline
+       fill="none"
+       points="61,296 61,315"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline90" />
+    <polyline
+       fill="none"
+       points="61,316 42,316"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline92" />
+    <polyline
+       fill="none"
+       points="41,316 41,297"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline94" />
+    <text
+       fill="rgb(0, 0, 255)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="22.0"
+       y="290.0"
+       id="text96">Backup</text>
+    <polyline
+       fill="none"
+       points="45,306 45,310 51,310 51,302 57,302 57,306"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline98" />
+    <ellipse
+       cx="61.0"
+       cy="306.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse100" />
+    <rect
+       fill="rgb(230, 230, 230)"
+       height="16"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="14"
+       x="417"
+       y="398"
+       id="rect102" />
+    <text
+       fill="rgb(0, 210, 0)"
+       font-family="Monospaced"
+       font-size="12"
+       x="421.0"
+       y="411.0"
+       id="text104">1</text>
+    <ellipse
+       cx="431.0"
+       cy="406.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse106" />
+    <rect
+       fill="rgb(230, 230, 230)"
+       height="16"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="14"
+       x="417"
+       y="468"
+       id="rect108" />
+    <text
+       fill="rgb(0, 210, 0)"
+       font-family="Monospaced"
+       font-size="12"
+       x="421.0"
+       y="481.0"
+       id="text110">1</text>
+    <ellipse
+       cx="431.0"
+       cy="476.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse112" />
+    <rect
+       fill="rgb(230, 230, 230)"
+       height="16"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="14"
+       x="434"
+       y="416"
+       id="rect114" />
+    <text
+       fill="rgb(0, 100, 0)"
+       font-family="Monospaced"
+       font-size="12"
+       x="438.0"
+       y="429.0"
+       id="text116">0</text>
+    <ellipse
+       cx="441.0"
+       cy="416.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse118" />
+    <rect
+       fill="rgb(230, 230, 230)"
+       height="16"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="14"
+       x="434"
+       y="486"
+       id="rect120" />
+    <text
+       fill="rgb(0, 100, 0)"
+       font-family="Monospaced"
+       font-size="12"
+       x="438.0"
+       y="499.0"
+       id="text122">0</text>
+    <ellipse
+       cx="441.0"
+       cy="486.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse124" />
+    <rect
+       fill="rgb(230, 230, 230)"
+       height="16"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="14"
+       x="447"
+       y="258"
+       id="rect126" />
+    <text
+       fill="rgb(0, 210, 0)"
+       font-family="Monospaced"
+       font-size="12"
+       x="451.0"
+       y="271.0"
+       id="text128">1</text>
+    <ellipse
+       cx="461.0"
+       cy="266.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse130" />
+    <rect
+       fill="rgb(230, 230, 230)"
+       height="16"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="14"
+       x="447"
+       y="268"
+       id="rect132" />
+    <text
+       fill="rgb(0, 100, 0)"
+       font-family="Monospaced"
+       font-size="12"
+       x="451.0"
+       y="281.0"
+       id="text134">0</text>
+    <ellipse
+       cx="461.0"
+       cy="276.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse136" />
+    <polyline
+       fill="none"
+       points="561,86 580,86"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline138" />
+    <polyline
+       fill="none"
+       points="581,86 581,105"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline140" />
+    <polyline
+       fill="none"
+       points="581,106 562,106"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline142" />
+    <polyline
+       fill="none"
+       points="561,106 561,87"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline144" />
+    <polyline
+       fill="none"
+       points="565,96 565,92 571,92 571,100 577,100 577,96"
+       stroke="rgb(0, 210, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline146" />
+    <ellipse
+       cx="581.0"
+       cy="96.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse148" />
+    <polygon
+       fill="none"
+       points="91,332 85,345 97,345"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon150" />
+    <ellipse
+       fill="none"
+       rx="3.0"
+       ry="3.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       transform="translate(91.0 329.0) rotate(-90)"
+       id="ellipse152" />
+    <ellipse
+       cx="91.0"
+       cy="326.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse154" />
+    <ellipse
+       cx="91.0"
+       cy="346.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse156" />
+    <path
+       d="M126.0,261.0 A15.0,15.0 90.0 0,0 126.0,231.0"
+       fill="none"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       id="path158" />
+    <polyline
+       fill="none"
+       points="126,231 112,231 112,261 126,261"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline160" />
+    <ellipse
+       cx="141.0"
+       cy="246.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse162" />
+    <ellipse
+       cx="111.0"
+       cy="236.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse164" />
+    <ellipse
+       cx="111.0"
+       cy="256.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse166" />
+    <polyline
+       fill="none"
+       points="141,246 151,246 151,246"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline168" />
+    <polyline
+       fill="none"
+       points="101,366 101,266 151,266 151,266"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline170" />
+    <path
+       d=" M181.0,256.0 C171.0,241.0 171.0,241.0 151.0,241.0 C159.0,256.0 159.0,256.0 151.0,271.0 C171.0,271.0 171.0,271.0 181.0,256.0 Z"
+       fill="none"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="path172" />
+    <ellipse
+       cx="181.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse174" />
+    <ellipse
+       cx="151.0"
+       cy="246.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse176" />
+    <ellipse
+       cx="151.0"
+       cy="266.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse178" />
+    <polygon
+       fill="none"
+       points="275,276 262,270 262,282"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon180" />
+    <ellipse
+       cx="278.0"
+       cy="276.0"
+       fill="none"
+       rx="3.0"
+       ry="3.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       id="ellipse182" />
+    <ellipse
+       cx="281.0"
+       cy="276.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse184" />
+    <ellipse
+       cx="261.0"
+       cy="276.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse186" />
+    <polygon
+       fill="none"
+       points="391,440 397,427 385,427"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon188" />
+    <ellipse
+       fill="none"
+       rx="3.0"
+       ry="3.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       transform="translate(391.0 443.0) rotate(-270)"
+       id="ellipse190" />
+    <ellipse
+       cx="391.0"
+       cy="446.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse192" />
+    <ellipse
+       cx="391.0"
+       cy="426.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse194" />
+    <polyline
+       fill="none"
+       points="331,246 371,246 371,246"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline196" />
+    <polyline
+       fill="none"
+       points="331,326 351,326 351,266 371,266 371,266"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline198" />
+    <path
+       d=" M401.0,256.0 C391.0,241.0 391.0,241.0 371.0,241.0 C379.0,256.0 379.0,256.0 371.0,271.0 C391.0,271.0 391.0,271.0 401.0,256.0 Z"
+       fill="none"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="path200" />
+    <ellipse
+       cx="401.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse202" />
+    <ellipse
+       cx="371.0"
+       cy="246.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse204" />
+    <ellipse
+       cx="371.0"
+       cy="266.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse206" />
+    <polyline
+       fill="none"
+       points="471,386 481,386 481,376 481,371"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline208" />
+    <polyline
+       fill="none"
+       points="471,456 501,456 501,376 501,371"
+       stroke="rgb(0, 100, 0)"
+       stroke-linecap="square"
+       stroke-width="3.0"
+       id="polyline210" />
+    <path
+       d=" M491.0,346.0 C476.0,356.0 476.0,356.0 476.0,376.0 C491.0,368.0 491.0,368.0 506.0,376.0 C506.0,356.0 506.0,356.0 491.0,346.0 Z"
+       fill="none"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="path212" />
+    <ellipse
+       cx="491.0"
+       cy="346.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse214" />
+    <ellipse
+       cx="481.0"
+       cy="376.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse216" />
+    <ellipse
+       cx="501.0"
+       cy="376.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse218" />
+    <polygon
+       fill="none"
+       points="581,256 562,249 562,263"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon220" />
+    <ellipse
+       cx="586.0"
+       cy="256.0"
+       fill="none"
+       rx="4.5"
+       ry="4.5"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       id="ellipse222" />
+    <ellipse
+       cx="591.0"
+       cy="256.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse224" />
+    <ellipse
+       cx="561.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse226" />
+    <rect
+       fill="rgb(0, 208, 208)"
+       height="152"
+       rx="5.0"
+       ry="5.0"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       width="335"
+       x="591"
+       y="54"
+       id="rect228" />
+    <rect
+       fill="none"
+       height="152"
+       rx="5.0"
+       ry="5.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       width="335"
+       x="591"
+       y="54"
+       id="rect230" />
+    <rect
+       fill="rgb(250, 250, 250)"
+       height="132"
+       rx="2.5"
+       ry="2.5"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="315"
+       x="601"
+       y="64"
+       id="rect232" />
+    <polyline
+       fill="none"
+       points="616,64 616,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline234" />
+    <polyline
+       fill="none"
+       points="646,64 646,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline236" />
+    <polyline
+       fill="none"
+       points="676,64 676,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline238" />
+    <polyline
+       fill="none"
+       points="706,64 706,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline240" />
+    <polyline
+       fill="none"
+       points="736,64 736,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline242" />
+    <polyline
+       fill="none"
+       points="766,64 766,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline244" />
+    <polyline
+       fill="none"
+       points="796,64 796,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline246" />
+    <polyline
+       fill="none"
+       points="826,64 826,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline248" />
+    <polyline
+       fill="none"
+       points="856,64 856,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline250" />
+    <polyline
+       fill="none"
+       points="886,64 886,196"
+       stroke="rgb(0, 145, 145)"
+       stroke-linecap="square"
+       stroke-width="0.5"
+       id="polyline252" />
+    <polyline
+       fill="none"
+       points="601,96 905,96"
+       stroke="rgb(0, 70, 70)"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       id="polyline254" />
+    <polyline
+       fill="none"
+       points="901,96 905,96"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline256" />
+    <polygon
+       fill="rgb(0, 0, 0)"
+       points="905,93 914,96 905,99"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon258" />
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="619.0"
+       y="74.0"
+       id="text260">25</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="649.0"
+       y="74.0"
+       id="text262">26</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="679.0"
+       y="74.0"
+       id="text264">27</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="709.0"
+       y="74.0"
+       id="text266">28</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="739.0"
+       y="74.0"
+       id="text268">29</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="769.0"
+       y="74.0"
+       id="text270">30</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="799.0"
+       y="74.0"
+       id="text272">31</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="829.0"
+       y="74.0"
+       id="text274">32</text>
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="859.0"
+       y="74.0"
+       id="text276">33</text>
+    <polyline
+       fill="none"
+       points="601,96 616,96 616,76 631,76 631,96 646,96 646,76 661,76 661,96 676,96 676,76 691,76 691,96 706,96 706,76 721,76 721,96 736,96 736,76 751,76 751,96 766,96 766,76 781,76 781,96 796,96 796,76 811,76 811,96 826,96 826,76 841,76 841,96 856,96 856,76 871,76 871,96 886,96 886,76 901,76 901,96"
+       stroke="rgb(0, 101, 101)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline278" />
+    <text
+       fill="rgb(0, 145, 145)"
+       font-family="Dialog"
+       font-size="8"
+       x="889.0"
+       y="74.0"
+       id="text280">34</text>
+    <polyline
+       fill="none"
+       points="601,126 905,126"
+       stroke="rgb(0, 70, 70)"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       id="polyline282" />
+    <polygon
+       fill="rgb(0, 0, 0)"
+       points="905,123 914,126 905,129"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon284" />
+    <polyline
+       fill="none"
+       points="601,106 616,106 631,106 646,106 661,106 676,106 676,126 691,126 706,126 721,126 736,126 751,126 766,126 766,106 781,106 796,106 811,106 826,106 841,106 856,106 856,126 871,126 886,126 901,126 905,126"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline286" />
+    <polyline
+       fill="none"
+       points="601,156 905,156"
+       stroke="rgb(0, 70, 70)"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       id="polyline288" />
+    <polygon
+       fill="rgb(0, 0, 0)"
+       points="905,153 914,156 905,159"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon290" />
+    <polyline
+       fill="none"
+       points="601,136 616,136 616,156 631,156 631,136 646,136 646,156 661,156 661,136 676,136 676,156 691,156 691,136 706,136 706,156 721,156 721,136 736,136 736,156 751,156 751,136 766,136 766,156 781,156 781,136 796,136 796,156 811,156 811,136 826,136 826,156 841,156 841,136 856,136 856,156 871,156 871,136 886,136 886,156 901,156 905,156"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline292" />
+    <polyline
+       fill="none"
+       points="601,186 905,186"
+       stroke="rgb(0, 70, 70)"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       id="polyline294" />
+    <polygon
+       fill="rgb(0, 0, 0)"
+       points="905,183 914,186 905,189"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polygon296" />
+    <polyline
+       fill="none"
+       points="601,186 616,186 631,186 646,186 661,186 676,186 691,186 706,186 721,186 736,186 751,186 766,186 781,186 796,186 811,186 826,186 841,186 856,186 871,186 886,186 901,186 905,186"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline298" />
+    <rect
+       fill="none"
+       height="132"
+       rx="2.5"
+       ry="2.5"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       width="315"
+       x="601"
+       y="64"
+       id="rect300" />
+    <ellipse
+       cx="591.0"
+       cy="126.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse302" />
+    <ellipse
+       cx="591.0"
+       cy="156.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse304" />
+    <ellipse
+       cx="591.0"
+       cy="186.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse306" />
+    <ellipse
+       cx="611.0"
+       cy="206.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse308" />
+    <ellipse
+       cx="621.0"
+       cy="206.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="2.0"
+       id="ellipse310" />
+    <polyline
+       fill="none"
+       points="592,99 595,96 592,93"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline312" />
+    <polyline
+       fill="none"
+       points="301,216 330,216"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline314" />
+    <polyline
+       fill="none"
+       points="331,216 331,255"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline316" />
+    <polyline
+       fill="none"
+       points="331,256 302,256"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline318" />
+    <polyline
+       fill="none"
+       points="301,256 301,217"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline320" />
+    <ellipse
+       cx="301.0"
+       cy="236.0"
+       fill="rgb(0, 0, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse322" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="304.0"
+       y="243.0"
+       id="text324">D</text>
+    <ellipse
+       cx="331.0"
+       cy="236.0"
+       fill="rgb(0, 0, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse326" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="319.0"
+       y="243.0"
+       id="text328">Q</text>
+    <ellipse
+       cx="301.0"
+       cy="226.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse330" />
+    <ellipse
+       cx="311.0"
+       cy="216.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse332" />
+    <ellipse
+       cx="331.0"
+       cy="246.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse334" />
+    <ellipse
+       cx="321.0"
+       cy="256.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse336" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="318.0"
+       y="253.0"
+       id="text338">0</text>
+    <ellipse
+       cx="301.0"
+       cy="246.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse340" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="304.0"
+       y="253.0"
+       id="text342">ct</text>
+    <polyline
+       fill="none"
+       points="314,255 311,252 308,255"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline344" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="313.0"
+       y="233.0"
+       id="text346">0</text>
+    <polyline
+       fill="none"
+       points="301,296 330,296"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline348" />
+    <polyline
+       fill="none"
+       points="331,296 331,335"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline350" />
+    <polyline
+       fill="none"
+       points="331,336 302,336"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline352" />
+    <polyline
+       fill="none"
+       points="301,336 301,297"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline354" />
+    <ellipse
+       cx="301.0"
+       cy="316.0"
+       fill="rgb(0, 0, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse356" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="304.0"
+       y="323.0"
+       id="text358">D</text>
+    <ellipse
+       cx="331.0"
+       cy="316.0"
+       fill="rgb(0, 0, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse360" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="319.0"
+       y="323.0"
+       id="text362">Q</text>
+    <ellipse
+       cx="301.0"
+       cy="306.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse364" />
+    <ellipse
+       cx="311.0"
+       cy="296.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse366" />
+    <ellipse
+       cx="331.0"
+       cy="326.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse368" />
+    <ellipse
+       cx="321.0"
+       cy="336.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse370" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="318.0"
+       y="333.0"
+       id="text372">0</text>
+    <ellipse
+       cx="301.0"
+       cy="326.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse374" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="304.0"
+       y="333.0"
+       id="text376">ct</text>
+    <polyline
+       fill="none"
+       points="314,335 311,332 308,335"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline378" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="313.0"
+       y="313.0"
+       id="text380">1</text>
+    <polyline
+       fill="none"
+       points="431,376 470,376"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline382" />
+    <polyline
+       fill="none"
+       points="471,376 471,415"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline384" />
+    <polyline
+       fill="none"
+       points="471,416 432,416"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline386" />
+    <polyline
+       fill="none"
+       points="431,416 431,377"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline388" />
+    <ellipse
+       cx="451.0"
+       cy="396.0"
+       fill="rgb(0, 100, 0)"
+       rx="6.5"
+       ry="6.5"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse390" />
+    <text
+       fill="rgb(255, 255, 255)"
+       font-family="SansSerif"
+       font-size="12"
+       x="448.0"
+       y="402.0"
+       id="text392">0</text>
+    <ellipse
+       cx="461.0"
+       cy="416.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse394" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="458.0"
+       y="413.0"
+       id="text396">0</text>
+    <ellipse
+       cx="441.0"
+       cy="416.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse398" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="438.0"
+       y="413.0"
+       id="text400">1</text>
+    <ellipse
+       cx="431.0"
+       cy="406.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse402" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="434.0"
+       y="413.0"
+       id="text404">T</text>
+    <polyline
+       fill="none"
+       points="432,389 435,386 432,383"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline406" />
+    <ellipse
+       cx="471.0"
+       cy="386.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse408" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="459.0"
+       y="393.0"
+       id="text410">Q</text>
+    <ellipse
+       cx="471.0"
+       cy="406.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse412" />
+    <polyline
+       fill="none"
+       points="431,446 470,446"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline414" />
+    <polyline
+       fill="none"
+       points="471,446 471,485"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline416" />
+    <polyline
+       fill="none"
+       points="471,486 432,486"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline418" />
+    <polyline
+       fill="none"
+       points="431,486 431,447"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline420" />
+    <ellipse
+       cx="451.0"
+       cy="466.0"
+       fill="rgb(0, 100, 0)"
+       rx="6.5"
+       ry="6.5"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse422" />
+    <text
+       fill="rgb(255, 255, 255)"
+       font-family="SansSerif"
+       font-size="12"
+       x="448.0"
+       y="472.0"
+       id="text424">0</text>
+    <ellipse
+       cx="461.0"
+       cy="486.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse426" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="458.0"
+       y="483.0"
+       id="text428">0</text>
+    <ellipse
+       cx="441.0"
+       cy="486.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse430" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="438.0"
+       y="483.0"
+       id="text432">1</text>
+    <ellipse
+       cx="431.0"
+       cy="476.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse434" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="434.0"
+       y="483.0"
+       id="text436">T</text>
+    <polyline
+       fill="none"
+       points="432,459 435,456 432,453"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline438" />
+    <ellipse
+       cx="471.0"
+       cy="456.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse440" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="459.0"
+       y="463.0"
+       id="text442">Q</text>
+    <ellipse
+       cx="471.0"
+       cy="476.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse444" />
+    <polyline
+       fill="none"
+       points="461,246 500,246"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline446" />
+    <polyline
+       fill="none"
+       points="501,246 501,285"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline448" />
+    <polyline
+       fill="none"
+       points="501,286 462,286"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline450" />
+    <polyline
+       fill="none"
+       points="461,286 461,247"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline452" />
+    <ellipse
+       cx="481.0"
+       cy="266.0"
+       fill="rgb(0, 100, 0)"
+       rx="6.5"
+       ry="6.5"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse454" />
+    <text
+       fill="rgb(255, 255, 255)"
+       font-family="SansSerif"
+       font-size="12"
+       x="478.0"
+       y="272.0"
+       id="text456">0</text>
+    <ellipse
+       cx="491.0"
+       cy="286.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse458" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="488.0"
+       y="283.0"
+       id="text460">0</text>
+    <ellipse
+       cx="471.0"
+       cy="286.0"
+       fill="rgb(40, 40, 255)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse462" />
+    <text
+       fill="rgb(128, 128, 128)"
+       font-family="SansSerif"
+       font-size="12"
+       x="468.0"
+       y="283.0"
+       id="text464">1</text>
+    <ellipse
+       cx="461.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse466" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="464.0"
+       y="263.0"
+       id="text468">S</text>
+    <ellipse
+       cx="461.0"
+       cy="276.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse470" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="464.0"
+       y="283.0"
+       id="text472">R</text>
+    <polyline
+       fill="none"
+       points="462,269 465,266 462,263"
+       stroke="rgb(0, 0, 0)"
+       stroke-linecap="square"
+       stroke-width="2.0"
+       id="polyline474" />
+    <ellipse
+       cx="501.0"
+       cy="256.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse476" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="12"
+       x="489.0"
+       y="263.0"
+       id="text478">Q</text>
+    <ellipse
+       cx="501.0"
+       cy="276.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse480" />
+    <rect
+       fill="rgb(64, 64, 64)"
+       height="38"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="28"
+       x="82"
+       y="367"
+       id="rect482" />
+    <rect
+       fill="rgb(255, 255, 255)"
+       height="20"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="6"
+       x="88"
+       y="382"
+       id="rect484" />
+    <text
+       fill="rgb(255, 255, 255)"
+       font-family="SansSerif"
+       font-size="12"
+       x="87.0"
+       y="381.0"
+       id="text486">1</text>
+    <rect
+       fill="rgb(255, 255, 255)"
+       height="20"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="6"
+       x="98"
+       y="382"
+       id="rect488" />
+    <text
+       fill="rgb(255, 255, 255)"
+       font-family="SansSerif"
+       font-size="12"
+       x="97.0"
+       y="381.0"
+       id="text490">2</text>
+    <rect
+       fill="rgb(128, 128, 128)"
+       height="9"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="4"
+       x="89"
+       y="392"
+       id="rect492" />
+    <rect
+       fill="rgb(128, 128, 128)"
+       height="9"
+       stroke="none"
+       stroke-linecap="square"
+       stroke-width="1.0"
+       width="4"
+       x="99"
+       y="392"
+       id="rect494" />
+    <ellipse
+       cx="91.0"
+       cy="366.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse496" />
+    <ellipse
+       cx="101.0"
+       cy="366.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse498" />
+    <ellipse
+       cx="201.0"
+       cy="206.0"
+       fill="rgb(64, 64, 64)"
+       rx="9.0"
+       ry="9.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse500" />
+    <ellipse
+       cx="201.0"
+       cy="206.0"
+       fill="none"
+       rx="9.0"
+       ry="9.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       id="ellipse502" />
+    <ellipse
+       cx="201.0"
+       cy="216.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse504" />
+    <ellipse
+       cx="201.0"
+       cy="356.0"
+       fill="rgb(64, 64, 64)"
+       rx="9.0"
+       ry="9.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse506" />
+    <ellipse
+       cx="201.0"
+       cy="356.0"
+       fill="none"
+       rx="9.0"
+       ry="9.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       id="ellipse508" />
+    <ellipse
+       cx="201.0"
+       cy="346.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse510" />
+    <ellipse
+       cx="611.0"
+       cy="256.0"
+       fill="rgb(240, 0, 0)"
+       rx="9.0"
+       ry="9.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse512" />
+    <ellipse
+       cx="611.0"
+       cy="256.0"
+       fill="none"
+       rx="9.0"
+       ry="9.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       id="ellipse514" />
+    <text
+       fill="rgb(0, 0, 255)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="623.0"
+       y="264.0"
+       id="text516">Master_Work</text>
+    <ellipse
+       cx="601.0"
+       cy="256.0"
+       fill="rgb(0, 210, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse518" />
+    <ellipse
+       cx="611.0"
+       cy="306.0"
+       fill="rgb(64, 64, 64)"
+       rx="9.0"
+       ry="9.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse520" />
+    <ellipse
+       cx="611.0"
+       cy="306.0"
+       fill="none"
+       rx="9.0"
+       ry="9.0"
+       stroke="rgb(0, 0, 0)"
+       stroke-width="2.0"
+       id="ellipse522" />
+    <text
+       fill="rgb(0, 0, 255)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="623.0"
+       y="314.0"
+       id="text524">Backup_Work</text>
+    <ellipse
+       cx="601.0"
+       cy="306.0"
+       fill="rgb(0, 100, 0)"
+       rx="2.0"
+       ry="2.0"
+       stroke="none"
+       stroke-width="1.0"
+       id="ellipse526" />
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="10.0"
+       y="421.0"
+       id="text528">Состояния постоянного 0 или 1</text>
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="37.0"
+       y="51.0"
+       id="text530">Размеры счетчиков зависят от разнице в частоте</text>
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="38.0"
+       y="26.0"
+       id="text532">Меандры лучше должны быть одинаковой частоты</text>
+    <text
+       fill="rgb(0, 0, 0)"
+       font-family="SansSerif"
+       font-size="16"
+       font-weight="bold"
+       x="279.0"
+       y="201.0"
+       id="text534">Счетчики</text>
+  </g>
+</svg>
